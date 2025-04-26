@@ -1,0 +1,11 @@
+# Ignore Docker volumes
+**/ollama_models/
+**/.n8n/
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+# Ignore env files
+.env
+.env.*
